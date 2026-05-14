@@ -1,8 +1,8 @@
 // ESP32 Joystick Module Test
 
-#define VRX_PIN 4
-#define VRY_PIN 15
-#define SW_PIN  25
+#define VRX_PIN 36
+#define VRY_PIN 39
+// #define SW_PIN  25
 
 void setup() {
   Serial.begin(115200);
